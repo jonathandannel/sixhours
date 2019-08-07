@@ -10,7 +10,11 @@ It is a simple client side application that queries data from an external source
 
 Please note that the actual API routes and all references to the assessment and the company itself have been removed as to discourage 'cheating' on the assessment by other applicants, as requested by the company.
 
-# Screen
+# Screens
+
+![](https://github.com/jonathandannel/sixhours/blob/master/public/default.png?raw=true)
+
+![](https://github.com/jonathandannel/sixhours/blob/master/public/search.png?raw=true)
 
 # Features
 
