@@ -11,15 +11,16 @@ It is a simple client side application that queries data from an external source
 Please note that the actual API routes and all references to the assessment and the company itself have been removed as to discourage 'cheating' on the assessment by other applicants, as requested by the company.
 
 # Screens
-
+### Default
 ![](https://github.com/jonathandannel/sixhours/blob/master/public/default.png?raw=true)
 
+### Searching
 ![](https://github.com/jonathandannel/sixhours/blob/master/public/search.png?raw=true)
 
 # Features
 
 - Fast, responsive search
-- Single page application, no refreshing required
+- Single page application
 - Functional stateless React components using the Hooks API
 - Data for workers and work orders is fetched only once. Subsequent filters and result toggles will not trigger more API calls
 - Toggle switch for sorting by oldest or newest work orders
