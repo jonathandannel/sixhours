@@ -2,7 +2,7 @@
 
 This project was built to demonstrate my knowledge of React and the JavaScript programming language in general -- It was written within the context of a small take-home assessment for a Toronto-based startup/incubator.
 
-It is a simple client side application that queries data from an external source (in this case, a private API) and displays the results in a simple and intuitive manner. Users can search for 'orders' by worker name and the orders will be filtered based on that. Querying orders returns a worker ID, which then must be cross referenced by querying a different route for worker information, such as name and company. It was a fun exercise to work on, and a great chance to show my familiarity with common web development tasks, such as:
+This simple client side application queries data from an external source (in this case, a private API) and displays the results in a simple and intuitive manner. Users can search for 'orders' by worker name and the orders will be filtered based on that. Querying orders returns a worker ID, which then must be cross referenced by querying a different route for worker information, such as name and company. It was a fun exercise to work on, and a great chance to show my familiarity with common web development tasks, such as:
 
 - Fetching external data and manipulating it in a meaningful way
 - Organizing and reorganizing data based on search terms or filters
